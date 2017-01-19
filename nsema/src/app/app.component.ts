@@ -14,8 +14,6 @@ export class MyApp {
 
   rootPage: any = HomePage;
 
-  pages: Array<{title: string, component: any}>;
-
   constructor(public platform: Platform) {
     this.initializeApp();
 
