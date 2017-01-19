@@ -1,6 +1,6 @@
 Ionic uses NgModule
 Each new page created needs to be added to "declarations" and "entryComponents" in app.module.ts
 
-To generate a new page, use: ionic generate page <page-name>
+To generate a new page, use: ionic generate p <page-name>
 
 
