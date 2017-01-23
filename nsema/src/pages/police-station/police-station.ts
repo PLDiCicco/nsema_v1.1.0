@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { NavController, NavParams } from 'ionic-angular';
 
+
 @Component({
   selector: 'page-police-station',
   templateUrl: 'police-station.html'
@@ -14,7 +15,7 @@ export class PoliceStationPage {
   }
 
   policeWebsite() {
-    
+
   }
 
 
