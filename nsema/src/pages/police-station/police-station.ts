@@ -13,4 +13,9 @@ export class PoliceStationPage {
     console.log('ionViewDidLoad PoliceStationPage');
   }
 
+  policeWebsite() {
+    
+  }
+
+
 }
