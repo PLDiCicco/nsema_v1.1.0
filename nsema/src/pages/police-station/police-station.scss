@@ -43,15 +43,17 @@ page-police-station {
   margin-left:10px;
 }
 
+$contactHeight: 120px;
+
 #contactLeft {
   width:60%;
-  height:120px;
+  height:$contactHeight;
   float:left;
 }
 
 #contactRight {
   width:40%;
-  height:120px;
+  height:$contactHeight;
   float:left;
   text-align: center;
 }
