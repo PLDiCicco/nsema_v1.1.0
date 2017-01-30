@@ -1,7 +1,6 @@
 
 page-police-station {
 
-  $contactHeight: 120px;
   $textColor: #3b4348;
   $linkColor:#235ea7;
 
@@ -51,21 +50,10 @@ page-police-station {
     margin-left:10px;
   }
 
-  #contactLeft {
-    width:60%;
-    height:$contactHeight;
-    float:left;
+  .contactItem {
+    display: flex;
+    justify-content: space-between;
   }
 
-  #contactRight {
-    width:40%;
-    height:$contactHeight;
-    float:left;
-    text-align: center;
-  }
-
-  #contactAddress {
-    float:none;
-  }
 }
 
