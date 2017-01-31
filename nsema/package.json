@@ -1,7 +1,7 @@
 {
-  "name": "ionic-hello-world",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "name": "ns-ema",
+  "author": "Peter DiCicco",
+  "homepage": "http://www.nsmithfieldri.org/",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
@@ -41,5 +41,5 @@
     "ionic-plugin-keyboard"
   ],
   "cordovaPlatforms": [],
-  "description": "nsema: An Ionic project"
+  "description": "North Smithfield Emergency Managment Agency"
 }
