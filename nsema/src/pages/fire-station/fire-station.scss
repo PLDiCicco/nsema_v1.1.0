@@ -1,3 +1,57 @@
 page-fire-station {
 
+  $textColor: #3b4348;
+  $linkColor:#235ea7;
+
+  font-family: 'Georgia Pro', Georgia, Times, 'Times New Roman', serif;
+
+  a {
+    color: $linkColor;
+  }
+
+  #main {
+    background-color: rgba(255, 255, 255, 0.7);
+    color: $textColor;
+  }
+
+  .content {
+    padding: 10px;
+  }
+
+  #call911 {
+    color:red;
+    text-align: center;
+    background-color: greenyellow;
+    height:30px;
+    padding: 7px;
+  }
+
+  #img {
+    display:block;
+    margin:0 auto;
+  }
+ 
+  .contactHeader {
+    padding-top: 10px;
+    font-weight: bold;
+  }
+
+  .contactDetail {
+    margin-left:10px;
+  }
+
+  .descriptionText {
+    padding-top:10px;
+  }
+
+  .mapLink {
+    margin-top:15px;
+    margin-left:10px;
+  }
+
+  .fireTitle {
+    text-align: center;
+    background-color: lightskyblue;
+  }
+
 }
